@@ -4,7 +4,7 @@
 翻译科技书籍：PFC.pdf，模板参考[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)。
 
 ## 参与人
-Chapter I  ----陈文宇 220720835018
+陈文宇 220720835018  GithubId:cwycwy299       Chapter 1
 
 Chapter Ⅴ  ----刘家琪 220720835025
 
